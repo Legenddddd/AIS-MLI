@@ -1,5 +1,9 @@
+<div align="center">    
+ 
 # Angular Isotonic Loss Guided Multi-Layer Integration for Few-shot Fine-grained Image Classification
+[Li-Jun Zhao](https://Legenddddd.github.io/), Zhen-Duo Chen, Zhen-Xiang Ma, Xin Luo, and Xin-Shun Xu
 
+</div>
 
 ## Instruction with Data Preparation
 
