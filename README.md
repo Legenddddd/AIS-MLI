@@ -1,9 +1,21 @@
 <div align="center">    
  
 # Angular Isotonic Loss Guided Multi-Layer Integration for Few-shot Fine-grained Image Classification
-[Li-Jun Zhao](https://Legenddddd.github.io/), Zhen-Duo Chen, Zhen-Xiang Ma, Xin Luo, and Xin-Shun Xu
+Li-Jun Zhao, Zhen-Duo Chen, Zhen-Xiang Ma, Xin Luo, and Xin-Shun Xu
 
 </div>
+
+```bibtex
+@article{zhao2024angular,
+  title={Angular isotonic loss guided multi-layer integration for few-shot fine-grained image classification},
+  author={Zhao, Li-Jun and Chen, Zhen-Duo and Ma, Zhen-Xiang and Luo, Xin and Xu, Xin-Shun},
+  journal={IEEE Transactions on Image Processing},
+  volume={33},
+  pages={3778--3792},
+  year={2024},
+  publisher={IEEE}
+}
+```
 
 ## Instruction with Data Preparation
 
